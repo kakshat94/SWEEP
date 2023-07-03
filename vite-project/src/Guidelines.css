@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf);
+  }
+
+
+h2{
+    color: black;
+}
+
+.grid-container{
+    margin: 0 120px 0 120px;
+    padding: 10px;
+    font-family: "Canterell",sans-serif;
+    
+    
+}
+
+p, li{
+    color: black;
+    text-align: left;
+    font-size: 17px;
+    font-size: 18px;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 1.7em;
+}
+
+ol {
+    list-style-position: inside;
+    color: black;
+}
+
+
+

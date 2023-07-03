@@ -1,0 +1,105 @@
+.show-facilities{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    padding: 15px;
+    z-index: 400;
+    border-radius: 10px;
+    background-color: rgb(79, 79, 112);
+    color: white;
+    font-weight: 700;
+}
+
+.show-facilities:hover{
+    background-color: rgb(35, 42, 49);
+    transition: 0.1s;
+  }
+
+
+.toggle-popups{
+    position: absolute;
+    top: 30px;
+    right: 200px;
+    padding: 15px;
+    z-index: 400;
+    border-radius: 10px;
+    background-color: rgb(191, 59, 47);
+    color: white;
+    font-weight: 700;
+}
+
+.toggle-popups:hover{
+    background-color: rgb(142, 38, 38);
+    transition: 0.1s;
+  }
+
+.Loader{
+    right: 200px;
+    z-index: 400;
+    position: absolute;
+}
+
+.show-routes{
+    position: absolute;
+    top: 100px;
+    right: 30px;
+    padding: 15px 25px 15px 15px;
+    z-index: 400;
+    border-radius: 10px;
+    background-color: rgb(23, 108, 56);
+    color: white;
+    font-weight: 700;
+}
+
+.show-routes:hover{
+    background-color: rgb(41, 47, 36);
+    transition: 0.1s;
+  }
+
+
+
+.select-menu{
+    border-radius: 20px;
+    padding: 3px;
+    margin-top: 3px;
+    color: black;
+    padding: 3px 5px 3px 10px;
+  }
+
+  .select-menu:hover{
+    border-radius: 20px;
+    background-color: rgb(183, 183, 183);
+    padding: 3px 5px 3px 10px;
+    transition: 0.1s;
+  }
+
+
+.dropdown-btn{
+    background-color: rgb(199, 104, 10);
+    color: white;
+    top: 260px;
+    right: 30px;
+    border-radius: 10px;
+    
+
+}
+
+.echelon-btn{
+    background-color: rgb(38, 72, 207);
+    color: white;
+    position: absolute;
+    top: 170px;
+    font-size: smaller;
+    right: 30px;
+    z-index: 400;
+    border-radius: 10px;
+    padding: 12px;
+    box-shadow: 5px 5px 5px rgb(35, 124, 157);
+}
+    
+    
+.option-menu.modal-btn:hover{
+background-color:#4a4f5d;
+transition: 0.3s;
+}
+  

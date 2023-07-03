@@ -1,0 +1,100 @@
+
+.table-heading{
+    color: black;
+    text-align:center;
+}
+
+
+.route-about{
+    margin: 30px 200px 0 55px;
+}
+
+.submitTableButton{
+    position: absolute;
+    top: 120px;
+    right: 50px;
+    padding: 13px;
+    border-radius: 10px;
+    background-color: rgb(56, 56, 214);
+    color: white;
+    font-weight: 700;
+}
+
+.submitTableButton:hover {
+    background-color:rgb(34, 59, 130);
+    transition: 0.3s;
+  }
+  
+
+.downloadButton1{
+    position: absolute;
+    top: 190px;
+    right: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(204, 117, 30);
+    color: white;
+    font-weight: 700;
+}
+
+.downloadButton1:hover {
+    background-color:rgb(116, 70, 35);
+    transition: 0.3s;
+  }
+  
+
+.downloadButton2{
+    position: absolute;
+    top: 250px;
+    right: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(204, 117, 30);
+    color: white;
+    font-weight: 700;
+}
+
+.downloadButton2:hover {
+    background-color:rgb(35, 105, 38);
+    transition: 0.3s;
+  }
+  
+
+
+
+.table-container{
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.csv-container{
+    display: flex;
+    margin: 30px 200px 30px 30px;
+}
+
+table, td, tr{
+    color: black;
+    border:inset;
+    border-collapse:collapse;
+    font-size: small;
+    padding: 8px;
+    text-align: left;
+    margin: 20px 50px 50px 50px;
+    font-family: 'Montserrat';
+    background-color:rgb(234, 231, 228);
+}
+
+th{
+    background-color: rgb(56, 56, 214);
+	color: white;
+    border:inset;
+    border-collapse:collapse;
+    padding: 8px;
+    text-align: left;
+    margin: 50px;
+}
+
+
+
+
+

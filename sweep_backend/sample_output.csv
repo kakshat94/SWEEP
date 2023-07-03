@@ -1,0 +1,2 @@
+lat,lng,id,location_cost,node_label,echelon,index,facility_costs,facility_sizes,vehicle_capacity,routes,route_costs,Capacity,Capacity costs
+37.24055,-80.41082,a2f40f15-cc17-43fe-91a8-5583f21fb589,45,sdf,2,1,,,,"[['a', 'v']]",[8.208761692339682],4374.0,1998
